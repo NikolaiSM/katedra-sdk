@@ -25,9 +25,6 @@
         <url>https://github.com/NikolaiSM/katedra-sdk/tree/main</url>
     </scm>
     <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <meven.compiler.target>11</meven.compiler.target>
-        <java.version>11</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <build>
