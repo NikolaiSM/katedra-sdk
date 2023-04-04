@@ -1,4 +1,4 @@
-package com.katedra.sdk.model;
+package com.katedraclases.sdk.model;
 
 public class UserKatedra {
     private Long id;

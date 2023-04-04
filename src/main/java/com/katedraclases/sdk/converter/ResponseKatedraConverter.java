@@ -1,12 +1,12 @@
-package com.katedra.sdk.converter;
+package com.katedraclases.sdk.converter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.Map;
 
-import com.katedra.sdk.dto.UserKatedraDto;
-import com.katedra.sdk.model.ConstraintsKatedra;
-import com.katedra.sdk.model.UserKatedra;
-import com.katedra.sdk.util.interfaces.ResponseKatedra;
+import com.katedraclases.sdk.dto.UserKatedraDto;
+import com.katedraclases.sdk.model.ConstraintsKatedra;
+import com.katedraclases.sdk.model.UserKatedra;
+import com.katedraclases.sdk.util.interfaces.ResponseKatedra;
 
 import java.util.ArrayList;
 import java.util.List;

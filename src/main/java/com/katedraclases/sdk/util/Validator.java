@@ -1,6 +1,6 @@
-package com.katedra.sdk.util;
+package com.katedraclases.sdk.util;
 
-import com.katedra.sdk.model.ConstraintsKatedra;
+import com.katedraclases.sdk.model.ConstraintsKatedra;
 
 import javax.validation.Validation;
 import javax.validation.ValidatorFactory;

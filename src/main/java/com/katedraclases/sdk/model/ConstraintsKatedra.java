@@ -1,6 +1,6 @@
-package com.katedra.sdk.model;
+package com.katedraclases.sdk.model;
 
-import com.katedra.sdk.util.interfaces.ResponseKatedra;
+import com.katedraclases.sdk.util.interfaces.ResponseKatedra;
 
 public class ConstraintsKatedra implements ResponseKatedra {
     private String message;

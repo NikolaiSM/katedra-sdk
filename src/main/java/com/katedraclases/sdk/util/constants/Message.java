@@ -1,4 +1,4 @@
-package com.katedra.sdk.util.constants;
+package com.katedraclases.sdk.util.constants;
 
 public class Message {
     public static final String NULL_NAME = "El campo nombre no puede ser nulo";
