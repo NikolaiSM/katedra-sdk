@@ -1,4 +1,4 @@
-package com.katedra.sdk;
+package com.katedraclases.sdk;
 
 public class Main {
     public static void main(String[] args) {

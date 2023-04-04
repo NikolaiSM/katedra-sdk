@@ -1,8 +1,8 @@
-package com.katedra.sdk.converter;
+package com.katedraclases.sdk.converter;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.Map;
-import com.katedra.sdk.model.UserKatedra;
+import com.katedraclases.sdk.model.UserKatedra;
 
 public class UserKatedraConverter {
     public static UserKatedra createUserKatedra(Object obj) throws NoSuchFieldException, IllegalAccessException, Exception {

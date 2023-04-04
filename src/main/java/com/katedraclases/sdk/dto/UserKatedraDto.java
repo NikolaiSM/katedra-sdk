@@ -1,7 +1,7 @@
-package com.katedra.sdk.dto;
+package com.katedraclases.sdk.dto;
 
-import com.katedra.sdk.model.UserKatedra;
-import com.katedra.sdk.util.interfaces.ResponseKatedra;
+import com.katedraclases.sdk.model.UserKatedra;
+import com.katedraclases.sdk.util.interfaces.ResponseKatedra;
 
 public class UserKatedraDto implements ResponseKatedra {
     private UserKatedra userKatedra;

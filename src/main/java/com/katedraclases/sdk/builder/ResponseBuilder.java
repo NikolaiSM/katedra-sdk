@@ -1,7 +1,7 @@
-package com.katedra.sdk.builder;
+package com.katedraclases.sdk.builder;
 
-import com.katedra.sdk.model.ConstraintsKatedra;
-import com.katedra.sdk.util.interfaces.ResponseKatedra;
+import com.katedraclases.sdk.model.ConstraintsKatedra;
+import com.katedraclases.sdk.util.interfaces.ResponseKatedra;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
